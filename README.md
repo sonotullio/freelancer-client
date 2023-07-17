@@ -22,7 +22,7 @@ Freelancer is an app handle the relationship between freelancers and clients. It
 
 ## Getting Started
 
-
+.env.local file is required to run the application with google auth, you can alternatively use email and pwd. You can find the required variables in .env.example file.
 
 ## Available Scripts
 
